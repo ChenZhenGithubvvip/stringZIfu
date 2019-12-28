@@ -9,5 +9,8 @@
         <module name="stringZIfu" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="stringZIfu" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
