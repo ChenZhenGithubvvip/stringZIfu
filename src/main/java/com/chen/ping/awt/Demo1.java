@@ -67,7 +67,7 @@ public class Demo1 extends JFrame {
 
 
         this.setSize(650, 550);
-        this.setTitle("登录");
+        this.setTitle("窗口");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
 
